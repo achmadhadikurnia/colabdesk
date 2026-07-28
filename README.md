@@ -15,9 +15,20 @@ Built for simplicity and minimal user interaction.
 - **Automated Setup**: Installs desktop environment and tunneling tools automatically.
 
 ## 🎯 Use Cases (Why ColabDesk?)
+
+Think of ColabDesk as your **free, disposable remote Linux PC**. You have root access and can install, run, or build almost anything you want in a fully visual desktop environment. Plus, you get to leverage Google's powerful server hardware for free!
+
+**💻 Estimated Hardware Specs (Google Colab Free Tier):**
+- **CPU**: Intel Xeon (2 Cores)
+- **RAM**: ~12 GB - 13 GB
+- **Storage**: ~78 GB - 100 GB Disk Space
+- **GPU**: Free access to NVIDIA T4 GPU (up to 16GB VRAM) - *Hardware accelerator must be enabled in Colab settings*
+- **Network**: Ultra-fast Gigabit Internet Connection
+
+Here are some popular ways to use it:
 - **Web Scraping & Botting**: Run browser automation (Selenium/Puppeteer) on a remote server without using local resources.
 - **Cloud-to-Cloud Transfer**: Leverage Google Colab's massive backbone internet speed for downloading/uploading huge files.
-- **Data Science & ML IDE**: Run graphical tools (like JupyterLab UI or VS Code) visually on the cloud.
+- **Data Science & ML IDE**: Run graphical tools (like JupyterLab UI or VS Code) visually on the cloud, backed by a free GPU.
 - **Private Browsing Sandbox**: Surf the web securely using Google's IP address (perfect for avoiding local ISP blocks).
 - **Trading & Crypto Bots**: Keep your lightweight bots running in a contained, disposable Linux environment.
 - **View Farming (YouTube, etc.)**: Auto-play videos for hours to farm views or watch time without burning your local bandwidth.
@@ -33,17 +44,24 @@ Built for simplicity and minimal user interaction.
 
 Want more power? **ColabDesk Pro** unlocks premium features:
 
-| Feature | Free | Pro |
-|:---|:---:|:---:|
-| XFCE4 Desktop via noVNC | ✅ | ✅ |
-| Ngrok Tunneling | 1 token | Multi-token |
-| **Web Browser** | ❌ | Mozilla Firefox |
-| **Smart Token Fallback** (auto-retry on rate limits) | ❌ | ✅ |
-| **Instant Demo Tokens** (try immediately) | ❌ | ✅ |
-| **Rate-Limit Detection & Token Rotation** | ❌ | ✅ |
-| **Auto-Connect VNC** (no manual password entry) | ❌ | ✅ |
-| **Auto-Reconnect** with configurable delay | ❌ | ✅ |
-| **Anti-Disconnect Script** (Keep Colab Awake) | ❌ | ✅ |
+| Feature | Free | Pro | Pro Coding |
+|:---|:---:|:---:|:---:|
+| XFCE4 Desktop via noVNC | ✅ | ✅ | ✅ |
+| Ngrok Tunneling | 1 token | Multi-token | Multi-token |
+| **Web Browser** | ❌ | Mozilla Firefox | Mozilla Firefox |
+| **Smart Token Fallback** (auto-retry on rate limits) | ❌ | ✅ | ✅ |
+| **Instant Demo Tokens** (try immediately) | ❌ | ✅ | ✅ |
+| **Rate-Limit Detection & Token Rotation** | ❌ | ✅ | ✅ |
+| **Auto-Connect VNC** (no manual password entry) | ❌ | ✅ | ✅ |
+| **Auto-Reconnect** with configurable delay | ❌ | ✅ | ✅ |
+| **Anti-Disconnect Script** (Keep Colab Awake) | ❌ | ✅ | ✅ |
+| **Node.js** | ❌ | ✅ | ✅ |
+| **Antigravity CLI** | ❌ | ✅ | ✅ |
+| **Antigravity 2.0 Desktop** | ❌ | ✅ | ✅ |
+| **Codex CLI** | ❌ | ✅ | ✅ |
+| **OpenCode Terminal** | ❌ | ✅ | ✅ |
+| **Antigravity IDE** | ❌ | ❌ | ✅ |
+| **OpenCode Desktop** | ❌ | ❌ | ✅ |
 
 👉 **Get ColabDesk Pro:**
 - 🌍 **Global:** [Gumroad](https://achmadhadikurnia.gumroad.com/)
