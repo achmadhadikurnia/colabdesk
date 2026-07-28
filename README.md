@@ -23,7 +23,7 @@ Built for simplicity and minimal user interaction.
 - **View Farming (YouTube, etc.)**: Auto-play videos for hours to farm views or watch time without burning your local bandwidth.
 
 ## 🚀 How to Use
-1. Click here to open the script directly in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/colab-desk/blob/main/ColabDesk.ipynb)
+1. Click here to open the script directly in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/colabdesk/blob/main/ColabDesk.ipynb)
 2. On the right-side form, configure your preferred **VNC Password** and **Resolution**.
 3. In the **Ngrok Token** field, paste your token from [ngrok.com](https://dashboard.ngrok.com).
 4. Click the **Play (Run cell)** button.
@@ -39,6 +39,7 @@ Want more power? **ColabDesk Pro** unlocks premium features:
 | Ngrok Tunneling | 1 token | Multi-token |
 | **Web Browser** | ❌ | Mozilla Firefox |
 | **Smart Token Fallback** (auto-retry on rate limits) | ❌ | ✅ |
+| **Instant Demo Tokens** (try immediately) | ❌ | ✅ |
 | **Rate-Limit Detection & Token Rotation** | ❌ | ✅ |
 | **Auto-Connect VNC** (no manual password entry) | ❌ | ✅ |
 | **Auto-Reconnect** with configurable delay | ❌ | ✅ |
