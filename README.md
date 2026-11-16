@@ -11,7 +11,6 @@ Built for simplicity and minimal user interaction.
 ## ✨ Features
 - **One-Click Execution**: No confusing multi-step cells. Fill the form, click run, and you're done!
 - **Direct Browser Access**: Powered by noVNC and XFCE4.
-- **Mozilla Firefox**: Included as the default web browser.
 - **Automated Setup**: Installs desktop environment and tunneling tools automatically.
 
 ## 🎯 Use Cases (Why ColabDesk?)
@@ -31,7 +30,7 @@ Here are some popular ways to use it:
 - **Data Science & ML IDE**: Run graphical tools (like JupyterLab UI or VS Code) visually on the cloud, backed by a free GPU.
 - **Private Browsing Sandbox**: Surf the web securely using Google's IP address (perfect for avoiding local ISP blocks).
 - **Trading & Crypto Bots**: Keep your lightweight bots running in a contained, disposable Linux environment.
-- **View Farming (YouTube, etc.)**: Auto-play videos for hours to farm views or watch time without burning your local bandwidth.
+- **Browser Automation & Testing**: Run browser automation, Selenium tests, or media streaming in the cloud without burning local bandwidth.
 
 ## 🚀 How to Use
 1. Click here to open the script directly in Google Colab: [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/achmadhadikurnia/colabdesk/blob/main/ColabDesk.ipynb)
@@ -42,26 +41,28 @@ Here are some popular ways to use it:
 
 ## ⭐ Upgrade to ColabDesk Pro
 
-Want more power? **ColabDesk Pro** unlocks premium features:
+Want more power? **ColabDesk Pro** unlocks premium features in a single all-in-one package:
 
-| Feature | Free | Pro | Pro Coding |
-|:---|:---:|:---:|:---:|
-| XFCE4 Desktop via noVNC | ✅ | ✅ | ✅ |
-| Ngrok Tunneling | 1 token | Multi-token | Multi-token |
-| **Web Browser** | ❌ | Mozilla Firefox | Mozilla Firefox |
-| **Smart Token Fallback** (auto-retry on rate limits) | ❌ | ✅ | ✅ |
-| **Instant Demo Tokens** (try immediately) | ❌ | ✅ | ✅ |
-| **Rate-Limit Detection & Token Rotation** | ❌ | ✅ | ✅ |
-| **Auto-Connect VNC** (no manual password entry) | ❌ | ✅ | ✅ |
-| **Auto-Reconnect** with configurable delay | ❌ | ✅ | ✅ |
-| **Anti-Disconnect Script** (Keep Colab Awake) | ❌ | ✅ | ✅ |
-| **Node.js** | ❌ | ✅ | ✅ |
-| **Antigravity CLI** | ❌ | ✅ | ✅ |
-| **Antigravity 2.0 Desktop** | ❌ | ✅ | ✅ |
-| **Codex CLI** | ❌ | ✅ | ✅ |
-| **OpenCode Terminal** | ❌ | ✅ | ✅ |
-| **Antigravity IDE** | ❌ | ❌ | ✅ |
-| **OpenCode Desktop** | ❌ | ❌ | ✅ |
+| Feature                                              |  Free   | Pro (All-in-One) |
+| :--------------------------------------------------- | :-----: | :--------------: |
+| XFCE4 Desktop via noVNC                              |    ✅    |        ✅         |
+| Ngrok Tunneling                                      | 1 token |   Multi-token    |
+| **Smart Token Fallback** (auto-retry on rate limits) |    ❌    |        ✅         |
+| **Instant Demo Tokens** (try immediately)            |    ❌    |        ✅         |
+| **Rate-Limit Detection & Token Rotation**            |    ❌    |        ✅         |
+| **Auto-Connect VNC** (no manual password entry)      |    ❌    |        ✅         |
+| **Auto-Reconnect** with configurable delay           |    ❌    |        ✅         |
+| **Anti-Disconnect Script** (Keep Colab Awake)        |    ❌    |        ✅         |
+| **GPU T4 Acceleration & Verification**               |    ❌    |        ✅         |
+| **Selective Software Checkboxes** (speed up loading) |    ❌    |        ✅         |
+| **Web Browser (Mozilla Firefox)**                    |    ❌    |        ✅         |
+| **VLC Media Player**                                 |    ❌    |        ✅         |
+| **Antigravity IDE**                                  |    ❌    |        ✅         |
+| **Antigravity 2.0 Desktop**                          |    ❌    |        ✅         |
+| **OpenCode Desktop**                                 |    ❌    |        ✅         |
+| **Antigravity CLI**                                  |    ❌    |        ✅         |
+| **Codex CLI**                                        |    ❌    |        ✅         |
+| **OpenCode Terminal**                                |    ❌    |        ✅         |
 
 👉 **Get ColabDesk Pro:**
 - 🌍 **Global:** [Gumroad](https://achmadhadikurnia.gumroad.com/)
